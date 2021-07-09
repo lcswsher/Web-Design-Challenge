@@ -3,7 +3,7 @@ body {
 	  background-image: color rgb(90, 88, 88);
 	  height: 750px;
 	  background-position: center;
-	  background-repeat: repeat;
+	  background-repeat: repeat; 
 	  background-size: cover;
 	}
 
@@ -44,11 +44,14 @@ body {
 	  font-size: 15px;
 	}
 	
+/* font size and color used for each tab in each html file */
+
 	.title {
 	  font-size: 10px;
 	  color:black
 	}
 
+	
 	img{
 	  width:100%;
 	  height:100%;
@@ -58,11 +61,7 @@ body {
 	  border-style: solid;
 	  
 	}
-	.vizualization {
-	  width:50%;
-	  height:50%;
-	}
-	
+		
 	.plot-header {
 	  color: rgb(52, 149, 165);
 	  font-family: cochin;
